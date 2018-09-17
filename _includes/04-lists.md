@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Git
+* GitHub
+* Android
+  1. Retrofit
+  2. Picasso
+  3. Constraint-Layout
